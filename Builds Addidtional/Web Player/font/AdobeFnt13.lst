@@ -1,0 +1,43 @@
+%!Adobe-FontList 1.13
+%Locale:0x415
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\Nasze Wizki\Dabrowski\video player\Font\VideoJS.eot
+FileModTime:1463057146
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\Nasze Wizki\Dabrowski\video player\Font\VideoJS.svg
+FileModTime:1463057146
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:VideoJS
+FamilyName:VideoJS
+StyleName:Regular
+FullName:VideoJS
+MenuName:VideoJS
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\Nasze Wizki\Dabrowski\video player\Font\VideoJS.ttf
+DataFormat:sfntData
+FileLength:5736
+FileModTime:1463057146
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\Nasze Wizki\Dabrowski\video player\Font\VideoJS.woff
+FileModTime:1463057146
+%EndFont
+
