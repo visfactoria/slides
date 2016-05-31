@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0B2C503C-D5E7-7FB3-36E9-795A5178747A}") = "Slide viewer", "Assembly-CSharp-firstpass.csproj", "{D77A336F-EE3E-571D-B562-D233B5A5935D}"
+EndProject
+Project("{0B2C503C-D5E7-7FB3-36E9-795A5178747A}") = "Slide viewer", "Assembly-CSharp.csproj", "{B150F3E4-5C58-4DD6-77B2-F59610987620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77A336F-EE3E-571D-B562-D233B5A5935D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77A336F-EE3E-571D-B562-D233B5A5935D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77A336F-EE3E-571D-B562-D233B5A5935D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77A336F-EE3E-571D-B562-D233B5A5935D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B150F3E4-5C58-4DD6-77B2-F59610987620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B150F3E4-5C58-4DD6-77B2-F59610987620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B150F3E4-5C58-4DD6-77B2-F59610987620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B150F3E4-5C58-4DD6-77B2-F59610987620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
