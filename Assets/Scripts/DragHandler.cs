@@ -27,9 +27,6 @@ public class DragHandler : MonoBehaviour, IBeginDragHandler,IDragHandler,IEndDra
 
 	public void OnDrag (PointerEventData eventData)
 	{
-		print ("mouse: " + Input.mousePosition);
-		print ("GO: " + dragRect.anchoredPosition3D);
-		print ("GO start: " + startPosition);
 		dragRect.anchoredPosition3D = (Input.mousePosition-mouseStartPosition+startPosition);
 
 	}
@@ -47,6 +44,31 @@ public class DragHandler : MonoBehaviour, IBeginDragHandler,IDragHandler,IEndDra
 	}
 
 	#endregion
+
+	/*public Vector3 GetStartPosition(){
+		return startPosition;
+	}
+
+	public Transform GetStartParent(){
+		return startParentRect;
+	}
+
+	public void SetAnchorPosition(Vector3 newPosition){
+		dragRect = gameObject.GetComponent<RectTransform> ();
+		dragRect.anchoredPosition3D = newPosition;
+	}*/
+
+	public static void cloneDragged(){
+		if (itemBeingDragged) {
+			GameObject clone = Instantiate (itemBeingDragged);
+
+			clone.GetComponent<RectTransform> ().SetParent (DragHandler.itemBeingDragged.GetComponent<RectTransform> ().parent);
+			clone.GetComponent<RectTransform> ().anchoredPosition3D = DragHandler.itemBeingDragged.GetComponent<DragHandler>().startPosition;
+			clone.GetComponent<RectTransform> ().localScale.Set (1.0f, 1.0f, 1.0f);
+			clone.GetComponent<CanvasGroup> ().blocksRaycasts = true;
+		}
+	}
+
 
 
 
