@@ -20,23 +20,23 @@ public class SlotDropHandler : MonoBehaviour, IDropHandler {
 	public void OnDrop (PointerEventData eventData)
 	{
 		if(!item){
-			if (respawns) {
-				print ("creating clone");
-				//GameObject clone =  Instantiate (DragHandler.itemBeingDragged);
-				//clone.transform.SetParent (DragHandler.itemBeingDragged.GetComponent<RectTransform>().parent);
-				//clone.GetComponent<RectTransform>().anchoredPosition3D = DragHandler.itemBeingDragged.GetComponent<RectTransform>()
-				//DragHandler.itemBeingDragged.GetComponent<DragHandler>().
+			if (DragHandler.itemBeingDragged.transform.parent.GetComponent<SlotDropHandler>().CheckRespawn()) {
 				DragHandler.cloneDragged();
 				DragHandler.itemBeingDragged.transform.SetParent (transform);
 
 			} else {
 				DragHandler.itemBeingDragged.transform.SetParent (transform);
 			}
-			//ExecuteEvents.ExecuteHierarchy<IChanged> (gameObject, null, (x,y) => x.HasChanged());
 		}
+
+
 		if (isTrashCan) {
 			Destroy (DragHandler.itemBeingDragged);
 		}
 	}
 	#endregion
+
+	public bool CheckRespawn(){
+		return respawns;
+	}
 }
