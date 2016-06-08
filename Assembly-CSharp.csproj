@@ -38,30 +38,31 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-      <HintPath>f:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+      <HintPath>F:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
-      <HintPath>f:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+      <HintPath>F:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Sample\VideoTest.cs" />
-     <Compile Include="Assets\Scripts\AlfabetSzyfrowyExI.cs" />
-     <Compile Include="Assets\Scripts\CezarExI.cs" />
-     <Compile Include="Assets\Scripts\DragHandler.cs" />
-     <Compile Include="Assets\Scripts\FollowCamera.cs" />
-     <Compile Include="Assets\Scripts\LookAt.cs" />
-     <Compile Include="Assets\Scripts\MouseOrbitImproved.cs" />
-     <Compile Include="Assets\Scripts\PlayMovie.cs" />
-     <Compile Include="Assets\Scripts\PopUp.cs" />
-     <Compile Include="Assets\Scripts\ReadTXT.cs" />
-     <Compile Include="Assets\Scripts\RotaryMenu.cs" />
-     <Compile Include="Assets\Scripts\RotateCogs.cs" />
-     <Compile Include="Assets\Scripts\Slides.cs" />
-     <Compile Include="Assets\Scripts\SlotDropHandler.cs" />
-     <Compile Include="Assets\Scripts\SteganoExI.cs" />
-     <Compile Include="Assets\Scripts\SwitchToScene.cs" />
-     <Compile Include="Assets\Scripts\SzyfrowanieExI.cs" />
+     <Compile Include="Assets\_Scripts\AlfabetSzyfrowyExI.cs" />
+     <Compile Include="Assets\_Scripts\CezarExI.cs" />
+     <Compile Include="Assets\_Scripts\DragHandler.cs" />
+     <Compile Include="Assets\_Scripts\FollowCamera.cs" />
+     <Compile Include="Assets\_Scripts\LookAt.cs" />
+     <Compile Include="Assets\_Scripts\MouseOrbitImproved.cs" />
+     <Compile Include="Assets\_Scripts\PlayMovie.cs" />
+     <Compile Include="Assets\_Scripts\PopUp.cs" />
+     <Compile Include="Assets\_Scripts\ReadTXT.cs" />
+     <Compile Include="Assets\_Scripts\RotaryMenu.cs" />
+     <Compile Include="Assets\_Scripts\RotateCogs.cs" />
+     <Compile Include="Assets\_Scripts\Slides.cs" />
+     <Compile Include="Assets\_Scripts\SlotDropHandler.cs" />
+     <Compile Include="Assets\_Scripts\SteganoExI.cs" />
+     <Compile Include="Assets\_Scripts\SwitchToScene.cs" />
+     <Compile Include="Assets\_Scripts\SzyfrTranspozycyjny.cs" />
+     <Compile Include="Assets\_Scripts\SzyfrowanieExI.cs" />
      <None Include="Assets\Standard Assets\Effects\CinematicEffects(ALPHA)\AntiAliasing\FXAA\Resources\FXAA3.cginc" />
      <None Include="Assets\Resources\sample.txt" />
      <None Include="Assets\Standard Assets\Effects\CinematicEffects(BETA)\ScreenSpaceReflection\Resources\ScreenSpaceReflection.shader" />
@@ -81,10 +82,10 @@
      <None Include="Assets\Standard Assets\Effects\CinematicEffects(BETA)\TonemappingColorGrading\Resources\HistogramCompute.compute" />
      <None Include="Assets\README.txt" />
  <Reference Include="UnityEngine.UI">
- <HintPath>f:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
- <HintPath>f:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ <HintPath>F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
