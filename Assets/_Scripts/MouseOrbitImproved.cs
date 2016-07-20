@@ -1,10 +1,16 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 [AddComponentMenu("Camera-Control/Mouse Orbit with zoom")]
 public class MouseOrbitImproved : MonoBehaviour {
 
 	public Transform target;
+	public RectTransform joystick;
+	public Slider distScroll;
+	public Slider slideVert;
+	public Slider slideHoriz;
+	public Slider slideTargetHeight;
 	public float distance = 5.0f;
 	public float xSpeed = 120.0f;
 	public float ySpeed = 120.0f;
@@ -36,14 +42,18 @@ public class MouseOrbitImproved : MonoBehaviour {
 		}
 	}
 
-	void LateUpdate () 
+	void FixedUpdate () 
 	{
-		if (target&&Input.GetMouseButton(0)) 
+		if (target) 
 		{
-			x += Input.GetAxis("Mouse X") * xSpeed * distance * 0.02f;
-			y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f;
+			//x += Input.GetAxis("Mouse X") * xSpeed * distance * 0.02f;
+			//y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f;
 
-			y = ClampAngle(y, yMinLimit, yMaxLimit);
+			y = Mathf.Clamp(y + joystick.anchoredPosition.y * ySpeed,yMinLimit,yMaxLimit);
+
+			x -= joystick.anchoredPosition.x * xSpeed;
+
+			target.position = new Vector3 (0, slideTargetHeight.value, 0);
 
 			Quaternion rotation = Quaternion.Euler(y, x, 0);
 
@@ -55,7 +65,8 @@ public class MouseOrbitImproved : MonoBehaviour {
 		{
 			Quaternion rotation = Quaternion.Euler(y, x, 0);
 
-			distance = Mathf.Clamp(distance - Input.GetAxis("Mouse ScrollWheel")*5, distanceMin, distanceMax);
+			//distance = Mathf.Clamp(distance - Input.GetAxis("Mouse ScrollWheel")*5, distanceMin, distanceMax);
+			distance = Mathf.Clamp(distScroll.value, distanceMin, distanceMax);
 
 			RaycastHit hit;
 			if (Physics.Linecast (target.position, transform.position, out hit)) 
@@ -68,6 +79,22 @@ public class MouseOrbitImproved : MonoBehaviour {
 			transform.position = position;
 		}
 	}
+
+	/*public void SetDistance(){
+		Quaternion rotation = Quaternion.Euler(y, x, 0);
+
+		distance = Mathf.Clamp(newDistance, distanceMin, distanceMax);
+
+		RaycastHit hit;
+		if (Physics.Linecast (target.position, transform.position, out hit)) 
+		{
+			distance -=  hit.distance;
+		}
+		Vector3 negDistance = new Vector3(0.0f, 0.0f, -distance);
+		Vector3 position = rotation * negDistance + target.position;
+
+		transform.position = position;
+	}*/
 
 	public static float ClampAngle(float angle, float min, float max)
 	{

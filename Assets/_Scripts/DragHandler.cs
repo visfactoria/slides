@@ -27,7 +27,7 @@ public class DragHandler : MonoBehaviour, IBeginDragHandler,IDragHandler,IEndDra
 
 	public void OnDrag (PointerEventData eventData)
 	{
-		dragRect.anchoredPosition3D = (Input.mousePosition-mouseStartPosition+startPosition);
+		dragRect.anchoredPosition3D =(Input.mousePosition-mouseStartPosition+startPosition);
 
 	}
 
@@ -57,6 +57,8 @@ public class DragHandler : MonoBehaviour, IBeginDragHandler,IDragHandler,IEndDra
 		dragRect = gameObject.GetComponent<RectTransform> ();
 		dragRect.anchoredPosition3D = newPosition;
 	}*/
+
+
 
 	public static void cloneDragged(){
 		if (itemBeingDragged) {

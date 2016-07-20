@@ -7,6 +7,8 @@ Project("{0B2C503C-D5E7-7FB3-36E9-795A5178747A}") = "Slide viewer", "Assembly-CS
 EndProject
 Project("{0B2C503C-D5E7-7FB3-36E9-795A5178747A}") = "Slide viewer", "Assembly-CSharp-Editor-firstpass.csproj", "{9195B232-D8AD-9A26-C8B1-FB16EB1BD56B}"
 EndProject
+Project("{0B2C503C-D5E7-7FB3-36E9-795A5178747A}") = "Slide viewer", "Assembly-CSharp-Editor.csproj", "{EB7B7554-F3C4-B7D1-CDC9-82072BC87D8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{9195B232-D8AD-9A26-C8B1-FB16EB1BD56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9195B232-D8AD-9A26-C8B1-FB16EB1BD56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9195B232-D8AD-9A26-C8B1-FB16EB1BD56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7B7554-F3C4-B7D1-CDC9-82072BC87D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7B7554-F3C4-B7D1-CDC9-82072BC87D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7B7554-F3C4-B7D1-CDC9-82072BC87D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7B7554-F3C4-B7D1-CDC9-82072BC87D8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
