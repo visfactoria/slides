@@ -8,6 +8,12 @@ public class SzyfrowanieExI : MonoBehaviour {
 	public Transform unCodedList;
 	public Text message;
 	public string codeAlphabet = "POSNAIBCDEFGHJKLMQRTUVWXYZ";
+	public GameObject answerFrame;
+	public Color beige;
+	public Color dGray;
+	public Color burgundy;
+	public string scuccessText;
+	public string failText;
 
 
 	public void CheckAnswer(){
@@ -32,9 +38,13 @@ public class SzyfrowanieExI : MonoBehaviour {
 
 	
 		if (builderCoded.ToString ().Equals (Code(builderUnCoded.ToString()))) {
-			message.text = "Sukces!!!";
+			message.text = scuccessText;
+			message.color = dGray;
+			answerFrame.GetComponent<Image> ().color = beige;
 		} else {
-			message.text = "Źle. Próbuj Dalej.";
+			message.text = failText;
+			message.color = beige;
+			answerFrame.GetComponent<Image> ().color = burgundy;
 		}
 	}
 

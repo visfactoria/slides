@@ -8,6 +8,13 @@ public class AlfabetSzyfrowyExI : MonoBehaviour {
 	public Text message;
 	public string rightAnswer = "POSNAIBCDEFGHJKLMQRTUVWXYZ";
 
+
+	public GameObject answerFrame;
+	public Color beige;
+	public Color dGray;
+	public Color burgundy;
+
+
 	public void CheckAnswer(){
 		System.Text.StringBuilder builder = new System.Text.StringBuilder ();
 
@@ -19,17 +26,32 @@ public class AlfabetSzyfrowyExI : MonoBehaviour {
 			}
 		}
 
-		int count = builder.ToString ().Split ('A').Length - 1;
+		int count = 0;
+		int countMax = 0;
+
+		for (char c = 'A'; c <= 'Z'; c++) {
+			count = builder.ToString ().Split (c).Length - 1;
+			if (countMax < count) {
+				countMax = count;
+			}
+		}
 
 
 		if (builder.ToString ().Equals (rightAnswer)) {
 			message.text = "Sukces!!!";
+
+			message.color = dGray;
+			answerFrame.GetComponent<Image> ().color = beige;
 		} else {
 
-			if(count>=2){
+			if(countMax>=2){
 				message.text = "Litery się powtarzają.";
+				message.color = beige;
+				answerFrame.GetComponent<Image> ().color = burgundy;
 			}else{
 				message.text = "Źle. Próbuj Dalej.";
+				message.color = beige;
+				answerFrame.GetComponent<Image> ().color = burgundy;
 			}
 		}
 	}

@@ -38,7 +38,7 @@ public class MouseOrbitImproved : MonoBehaviour {
 
 	void LateUpdate () 
 	{
-		if (target&&Input.GetMouseButton(1)) 
+		if (target&&Input.GetMouseButton(0)) 
 		{
 			x += Input.GetAxis("Mouse X") * xSpeed * distance * 0.02f;
 			y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f;

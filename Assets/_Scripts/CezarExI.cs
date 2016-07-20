@@ -6,6 +6,13 @@ public class CezarExI : MonoBehaviour {
 	public Transform targetList;
 	public Text message;
 	public string rightAnswer = "";
+	public string rewardText1;
+
+	public GameObject answerFrame;
+	public Color beige;
+	public Color dGray;
+	public Color burgundy;
+
 
 	public void CheckAnswer(){
 		System.Text.StringBuilder builder = new System.Text.StringBuilder ();
@@ -18,9 +25,15 @@ public class CezarExI : MonoBehaviour {
 			}
 		}
 		if (builder.ToString ().Equals (rightAnswer)) {
-			message.text = "Sukces!!!";
+			message.text = rewardText1;
+
+			message.color = dGray;
+			answerFrame.GetComponent<Image> ().color = beige;
 		} else {
-			message.text = "Źle. Próbuj Dalej.";
+			message.text = " Wrong. Please try again.";
+
+			message.color = beige;
+			answerFrame.GetComponent<Image> ().color = burgundy;
 		}
 	}
 }

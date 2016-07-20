@@ -6,10 +6,20 @@ ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Mesh35 Group6 Group3 Group2 Model
+    100004: Mesh91 Group44 Group43 Group2 Model
     400000: //RootNode
+    400002: Mesh35 Group6 Group3 Group2 Model
+    400004: Mesh91 Group44 Group43 Group2 Model
     2300000: //RootNode
+    2300002: Mesh35 Group6 Group3 Group2 Model
+    2300004: Mesh91 Group44 Group43 Group2 Model
     3300000: //RootNode
+    3300002: Mesh35 Group6 Group3 Group2 Model
+    3300004: Mesh91 Group44 Group43 Group2 Model
     4300000: Cube
+    4300002: Mesh91 Group44 Group43 Group2 Model
+    4300004: Mesh35 Group6 Group3 Group2 Model
   materials:
     importMaterials: 1
     materialName: 0

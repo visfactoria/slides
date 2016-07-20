@@ -1,0 +1,2790 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RotorCoverClose
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: {x: 0, y: 0, z: .689471602, w: -.724312723}
+        inSlope: {x: 0, y: 0, z: 2.08325934, w: 2.08289456}
+        outSlope: {x: 0, y: 0, z: 2.08325934, w: 2.08289456}
+        tangentMode: 0
+      - time: 1.01666665
+        value: {x: 0, y: 0, z: .72419256, w: -.689597845}
+        inSlope: {x: 0, y: 0, z: 2.0308938, w: 2.13277841}
+        outSlope: {x: 0, y: 0, z: 2.0308938, w: 2.13277841}
+        tangentMode: 0
+      - time: 1.0333333
+        value: {x: 0, y: 0, z: .757167995, w: -.653220177}
+        inSlope: {x: 0, y: 0, z: 1.92376089, w: 2.22989225}
+        outSlope: {x: 0, y: 0, z: 1.92376089, w: 2.22989225}
+        tangentMode: 0
+      - time: 1.04999995
+        value: {x: 0, y: 0, z: .788317859, w: -.615268171}
+        inSlope: {x: 0, y: 0, z: 1.81198764, w: 2.32162571}
+        outSlope: {x: 0, y: 0, z: 1.81198764, w: 2.32162571}
+        tangentMode: 0
+      - time: 1.0666666
+        value: {x: 0, y: 0, z: .817567527, w: -.575832725}
+        inSlope: {x: 0, y: 0, z: 1.69585323, w: 2.40777111}
+        outSlope: {x: 0, y: 0, z: 1.69585323, w: 2.40777111}
+        tangentMode: 0
+      - time: 1.08333325
+        value: {x: 0, y: 0, z: .844846249, w: -.535009205}
+        inSlope: {x: 0, y: 0, z: 1.57562757, w: 2.48811436}
+        outSlope: {x: 0, y: 0, z: 1.57562757, w: 2.48811436}
+        tangentMode: 0
+      - time: 1.0999999
+        value: {x: 0, y: 0, z: .870088398, w: -.492895663}
+        inSlope: {x: 0, y: 0, z: 1.45159864, w: 2.56244802}
+        outSlope: {x: 0, y: 0, z: 1.45159864, w: 2.56244802}
+        tangentMode: 0
+      - time: 1.11666656
+        value: {x: 0, y: 0, z: .893232822, w: -.449594349}
+        inSlope: {x: 0, y: 0, z: 1.32407379, w: 2.63060665}
+        outSlope: {x: 0, y: 0, z: 1.32407379, w: 2.63060665}
+        tangentMode: 0
+      - time: 1.13333321
+        value: {x: 0, y: 0, z: .914224148, w: -.405208856}
+        inSlope: {x: 0, y: 0, z: 1.19336057, w: 2.69243264}
+        outSlope: {x: 0, y: 0, z: 1.19336057, w: 2.69243264}
+        tangentMode: 0
+      - time: 1.14999986
+        value: {x: 0, y: 0, z: .933011472, w: -.359846681}
+        inSlope: {x: 0, y: 0, z: 1.05976319, w: 2.74775863}
+        outSlope: {x: 0, y: 0, z: 1.05976319, w: 2.74775863}
+        tangentMode: 0
+      - time: 1.16666651
+        value: {x: 0, y: 0, z: .949549556, w: -.313616991}
+        inSlope: {x: 0, y: 0, z: .923614204, w: 2.79646492}
+        outSlope: {x: 0, y: 0, z: .923614204, w: 2.79646492}
+        tangentMode: 0
+      - time: 1.18333316
+        value: {x: 0, y: 0, z: .963798583, w: -.266631275}
+        inSlope: {x: 0, y: 0, z: .78524065, w: 2.83842492}
+        outSlope: {x: 0, y: 0, z: .78524065, w: 2.83842492}
+        tangentMode: 0
+      - time: 1.19999981
+        value: {x: 0, y: 0, z: .97572422, w: -.219002917}
+        inSlope: {x: 0, y: 0, z: .644973516, w: 2.87354994}
+        outSlope: {x: 0, y: 0, z: .644973516, w: 2.87354994}
+        tangentMode: 0
+      - time: 1.21666646
+        value: {x: 0, y: 0, z: .98529768, w: -.170846373}
+        inSlope: {x: 0, y: 0, z: .503150702, w: 2.90174794}
+        outSlope: {x: 0, y: 0, z: .503150702, w: 2.90174794}
+        tangentMode: 0
+      - time: 1.23333311
+        value: {x: 0, y: 0, z: .992495894, w: -.122278079}
+        inSlope: {x: 0, y: 0, z: .36011374, w: 2.92294359}
+        outSlope: {x: 0, y: 0, z: .36011374, w: 2.92294359}
+        tangentMode: 0
+      - time: 1.24999976
+        value: {x: 0, y: 0, z: .997301459, w: -.0734150186}
+        inSlope: {x: 0, y: 0, z: .216209501, w: 2.93709588}
+        outSlope: {x: 0, y: 0, z: .216209501, w: 2.93709588}
+        tangentMode: 0
+      - time: 1.26666641
+        value: {x: 0, y: 0, z: .999702871, w: -.0243749749}
+        inSlope: {x: 0, y: 0, z: .0717867091, w: 2.94416475}
+        outSlope: {x: 0, y: 0, z: .0717867091, w: 2.94416475}
+        tangentMode: 0
+      - time: 1.28333306
+        value: {x: 0, y: 0, z: .999694347, w: .0247237086}
+        inSlope: {x: 0, y: 0, z: -.0728131011, w: 2.94414306}
+        outSlope: {x: 0, y: 0, z: -.0728131011, w: 2.94414306}
+        tangentMode: 0
+      - time: 1.29999971
+        value: {x: 0, y: 0, z: .99727577, w: .0737630278}
+        inSlope: {x: 0, y: 0, z: -.217235893, w: 2.93702412}
+        outSlope: {x: 0, y: 0, z: -.217235893, w: 2.93702412}
+        tangentMode: 0
+      - time: 1.31666636
+        value: {x: 0, y: 0, z: .992453158, w: .122624412}
+        inSlope: {x: 0, y: 0, z: -.361132979, w: 2.92281771}
+        outSlope: {x: 0, y: 0, z: -.361132979, w: 2.92281771}
+        tangentMode: 0
+      - time: 1.33333302
+        value: {x: 0, y: 0, z: .985238016, w: .171190187}
+        inSlope: {x: 0, y: 0, z: -.504162788, w: 2.90156507}
+        outSlope: {x: 0, y: 0, z: -.504162788, w: 2.90156507}
+        tangentMode: 0
+      - time: 1.34999967
+        value: {x: 0, y: 0, z: .975647748, w: .219343156}
+        inSlope: {x: 0, y: 0, z: -.645974874, w: 2.87332153}
+        outSlope: {x: 0, y: 0, z: -.645974874, w: 2.87332153}
+        tangentMode: 0
+      - time: 1.36666632
+        value: {x: 0, y: 0, z: .96370554, w: .266967475}
+        inSlope: {x: 0, y: 0, z: -.786231041, w: 2.83815479}
+        outSlope: {x: 0, y: 0, z: -.786231041, w: 2.83815479}
+        tangentMode: 0
+      - time: 1.38333333
+        value: {x: 0, y: 0, z: .949439764, w: .313949227}
+        inSlope: {x: 0, y: 0, z: -.855929017, w: 2.81884742}
+        outSlope: {x: 0, y: 0, z: -.855929017, w: 2.81884742}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Rotor Cover Clamp R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.18333328
+        value: {x: 0, y: 0, z: .712449372, w: .701723516}
+        inSlope: {x: 0, y: 0, z: 2.12609625, w: -2.27366424}
+        outSlope: {x: 0, y: 0, z: 2.12609625, w: -2.27366424}
+        tangentMode: 1035966598
+      - time: 1.19999993
+        value: {x: 0, y: 0, z: .747884274, w: .663829148}
+        inSlope: {x: 0, y: 0, z: 2.06570339, w: -2.32726574}
+        outSlope: {x: 0, y: 0, z: 2.06570339, w: -2.32726574}
+        tangentMode: 2576
+      - time: 1.21666658
+        value: {x: 0, y: 0, z: .781306088, w: .624148071}
+        inSlope: {x: 0, y: 0, z: 1.94222331, w: -2.4312675}
+        outSlope: {x: 0, y: 0, z: 1.94222331, w: -2.4312675}
+        tangentMode: 0
+      - time: 1.23333323
+        value: {x: 0, y: 0, z: .812624991, w: .582786977}
+        inSlope: {x: 0, y: 0, z: 1.81351662, w: -2.52872658}
+        outSlope: {x: 0, y: 0, z: 1.81351662, w: -2.52872658}
+        tangentMode: 0
+      - time: 1.24999988
+        value: {x: 0, y: 0, z: .841756582, w: .539857268}
+        inSlope: {x: 0, y: 0, z: 1.67992806, w: -2.61937809}
+        outSlope: {x: 0, y: 0, z: 1.67992806, w: -2.61937809}
+        tangentMode: 0
+      - time: 1.26666653
+        value: {x: 0, y: 0, z: .868622541, w: .495474458}
+        inSlope: {x: 0, y: 0, z: 1.54181743, w: -2.70298004}
+        outSlope: {x: 0, y: 0, z: 1.54181743, w: -2.70298004}
+        tangentMode: 0
+      - time: 1.28333318
+        value: {x: 0, y: 0, z: .893150449, w: .449758023}
+        inSlope: {x: 0, y: 0, z: 1.39955664, w: -2.77930593}
+        outSlope: {x: 0, y: 0, z: 1.39955664, w: -2.77930593}
+        tangentMode: 0
+      - time: 1.29999983
+        value: {x: 0, y: 0, z: .915274382, w: .402831018}
+        inSlope: {x: 0, y: 0, z: 1.253528, w: -2.84814739}
+        outSlope: {x: 0, y: 0, z: 1.253528, w: -2.84814739}
+        tangentMode: 0
+      - time: 1.31666648
+        value: {x: 0, y: 0, z: .934934676, w: .354819864}
+        inSlope: {x: 0, y: 0, z: 1.10412693, w: -2.90932965}
+        outSlope: {x: 0, y: 0, z: 1.10412693, w: -2.90932965}
+        tangentMode: 0
+      - time: 1.33333313
+        value: {x: 0, y: 0, z: .952078581, w: .305853456}
+        inSlope: {x: 0, y: 0, z: .951755941, w: -2.96268058}
+        outSlope: {x: 0, y: 0, z: .951755941, w: -2.96268058}
+        tangentMode: 0
+      - time: 1.34999979
+        value: {x: 0, y: 0, z: .966659844, w: .256063938}
+        inSlope: {x: 0, y: 0, z: .7968207, w: -3.0080514}
+        outSlope: {x: 0, y: 0, z: .7968207, w: -3.0080514}
+        tangentMode: 0
+      - time: 1.36666644
+        value: {x: 0, y: 0, z: .978639245, w: .205585167}
+        inSlope: {x: 0, y: 0, z: .639739633, w: -3.04532981}
+        outSlope: {x: 0, y: 0, z: .639739633, w: -3.04532981}
+        tangentMode: 0
+      - time: 1.38333309
+        value: {x: 0, y: 0, z: .987984478, w: .154553041}
+        inSlope: {x: 0, y: 0, z: .480938435, w: -3.07440996}
+        outSlope: {x: 0, y: 0, z: .480938435, w: -3.07440996}
+        tangentMode: 0
+      - time: 1.39999974
+        value: {x: 0, y: 0, z: .99467051, w: .103104927}
+        inSlope: {x: 0, y: 0, z: .320842564, w: -3.09521532}
+        outSlope: {x: 0, y: 0, z: .320842564, w: -3.09521532}
+        tangentMode: 0
+      - time: 1.41666639
+        value: {x: 0, y: 0, z: .998679221, w: .0513792969}
+        inSlope: {x: 0, y: 0, z: .159881264, w: -3.10768604}
+        outSlope: {x: 0, y: 0, z: .159881264, w: -3.10768604}
+        tangentMode: 0
+      - time: 1.43333304
+        value: {x: 0, y: 0, z: .999999881, w: -.000484510238}
+        inSlope: {x: 0, y: 0, z: -.00150919333, w: -3.11179924}
+        outSlope: {x: 0, y: 0, z: -.00150919333, w: -3.11179924}
+        tangentMode: 0
+      - time: 1.44999969
+        value: {x: 0, y: 0, z: .998628914, w: -.0523472503}
+        inSlope: {x: 0, y: 0, z: -.162894294, w: -3.10753322}
+        outSlope: {x: 0, y: 0, z: -.162894294, w: -3.10753322}
+        tangentMode: 0
+      - time: 1.46666634
+        value: {x: 0, y: 0, z: .994570076, w: -.104068853}
+        inSlope: {x: 0, y: 0, z: -.323841274, w: -3.09490299}
+        outSlope: {x: 0, y: 0, z: -.323841274, w: -3.09490299}
+        tangentMode: 0
+      - time: 1.48333299
+        value: {x: 0, y: 0, z: .987834215, w: -.155510589}
+        inSlope: {x: 0, y: 0, z: -.483917475, w: -3.073946}
+        outSlope: {x: 0, y: 0, z: -.483917475, w: -3.073946}
+        tangentMode: 0
+      - time: 1.49999964
+        value: {x: 0, y: 0, z: .97843951, w: -.206533626}
+        inSlope: {x: 0, y: 0, z: -.642690063, w: -3.04470754}
+        outSlope: {x: 0, y: 0, z: -.642690063, w: -3.04470754}
+        tangentMode: 0
+      - time: 1.51666629
+        value: {x: 0, y: 0, z: .966411233, w: -.257000744}
+        inSlope: {x: 0, y: 0, z: -.799735367, w: -3.00727797}
+        outSlope: {x: 0, y: 0, z: -.799735367, w: -3.00727797}
+        tangentMode: 0
+      - time: 1.53333294
+        value: {x: 0, y: 0, z: .95178169, w: -.306776136}
+        inSlope: {x: 0, y: 0, z: -.954627395, w: -2.96175241}
+        outSlope: {x: 0, y: 0, z: -.954627395, w: -2.96175241}
+        tangentMode: 0
+      - time: 1.54999995
+        value: {x: 0, y: 0, z: .934589982, w: -.355726779}
+        inSlope: {x: 0, y: 0, z: -1.03148139, w: -2.93697834}
+        outSlope: {x: 0, y: 0, z: -1.03148139, w: -2.93697834}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Rotor Cover Clamp L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.98480773, y: 0, z: 0, w: .173648223}
+        inSlope: {x: .313950747, y: 0, z: 0, w: 1.64578366}
+        outSlope: {x: .313950747, y: 0, z: 0, w: 1.64578366}
+        tangentMode: 1070646740
+      - time: .0166666675
+        value: {x: -.979575217, y: 0, z: 0, w: .201077953}
+        inSlope: {x: .336863965, y: 0, z: 0, w: 1.64107955}
+        outSlope: {x: .336863965, y: 0, z: 0, w: 1.64107955}
+        tangentMode: 1070330194
+      - time: .0333333351
+        value: {x: -.97357893, y: 0, z: 0, w: .228350878}
+        inSlope: {x: .38255626, y: 0, z: 0, w: 1.63103724}
+        outSlope: {x: .38255626, y: 0, z: 0, w: 1.63103724}
+        tangentMode: 1053190259
+      - time: .0500000045
+        value: {x: -.966823339, y: 0, z: 0, w: .255445868}
+        inSlope: {x: .427948236, y: 0, z: 0, w: 1.61971712}
+        outSlope: {x: .427948236, y: 0, z: 0, w: 1.61971712}
+        tangentMode: 1044102076
+      - time: .0666666701
+        value: {x: -.959313989, y: 0, z: 0, w: .28234145}
+        inSlope: {x: .473004013, y: 0, z: 0, w: 1.60713327}
+        outSlope: {x: .473004013, y: 0, z: 0, w: 1.60713327}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: -.95105654, y: 0, z: 0, w: .309016973}
+        inSlope: {x: .51769501, y: 0, z: 0, w: 1.59330201}
+        outSlope: {x: .51769501, y: 0, z: 0, w: 1.59330201}
+        tangentMode: 1068391464
+      - time: .100000001
+        value: {x: -.94205749, y: 0, z: 0, w: .335451514}
+        inSlope: {x: .561981857, y: 0, z: 0, w: 1.57822621}
+        outSlope: {x: .561981857, y: 0, z: 0, w: 1.57822621}
+        tangentMode: 1067666844
+      - time: .116666667
+        value: {x: -.932323813, y: 0, z: 0, w: .361624509}
+        inSlope: {x: .605830431, y: 0, z: 0, w: 1.56192338}
+        outSlope: {x: .605830431, y: 0, z: 0, w: 1.56192338}
+        tangentMode: 1060480623
+      - time: .13333334
+        value: {x: -.921863139, y: 0, z: 0, w: .387515634}
+        inSlope: {x: .649205327, y: 0, z: 0, w: 1.54439783}
+        outSlope: {x: .649205327, y: 0, z: 0, w: 1.54439783}
+        tangentMode: 1054168410
+      - time: .150000006
+        value: {x: -.910683632, y: 0, z: 0, w: .413104445}
+        inSlope: {x: .69207257, y: 0, z: 0, w: 1.52566564}
+        outSlope: {x: .69207257, y: 0, z: 0, w: 1.52566564}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.898794055, y: 0, z: 0, w: .438371152}
+        inSlope: {x: .734401405, y: 0, z: 0, w: 1.50574756}
+        outSlope: {x: .734401405, y: 0, z: 0, w: 1.50574756}
+        tangentMode: 1063470354
+      - time: .183333337
+        value: {x: -.886203587, y: 0, z: 0, w: .463296026}
+        inSlope: {x: .776159823, y: 0, z: 0, w: 1.48465466}
+        outSlope: {x: .776159823, y: 0, z: 0, w: 1.48465466}
+        tangentMode: 1061423542
+      - time: .200000003
+        value: {x: -.872922063, y: 0, z: 0, w: .487859637}
+        inSlope: {x: .817310274, y: 0, z: 0, w: 1.46240401}
+        outSlope: {x: .817310274, y: 0, z: 0, w: 1.46240401}
+        tangentMode: 1064087309
+      - time: .216666669
+        value: {x: -.858959913, y: 0, z: 0, w: .51204282}
+        inSlope: {x: .857825935, y: 0, z: 0, w: 1.43901682}
+        outSlope: {x: .857825935, y: 0, z: 0, w: 1.43901682}
+        tangentMode: 1059481191
+      - time: .233333334
+        value: {x: -.844327867, y: 0, z: 0, w: .535826862}
+        inSlope: {x: .897671044, y: 0, z: 0, w: 1.41450238}
+        outSlope: {x: .897671044, y: 0, z: 0, w: 1.41450238}
+        tangentMode: 0
+      - time: .25
+        value: {x: -.829037547, y: 0, z: 0, w: .559192896}
+        inSlope: {x: .936812997, y: 0, z: 0, w: 1.38888311}
+        outSlope: {x: .936812997, y: 0, z: 0, w: 1.38888311}
+        tangentMode: 1049562101
+      - time: .266666681
+        value: {x: -.813100755, y: 0, z: 0, w: .582122982}
+        inSlope: {x: .975228906, y: 0, z: 0, w: 1.36218739}
+        outSlope: {x: .975228906, y: 0, z: 0, w: 1.36218739}
+        tangentMode: 1041206433
+      - time: .283333361
+        value: {x: -.796529889, y: 0, z: 0, w: .604599178}
+        inSlope: {x: 1.01288354, y: 0, z: 0, w: 1.33442473}
+        outSlope: {x: 1.01288354, y: 0, z: 0, w: 1.33442473}
+        tangentMode: 1065353216
+      - time: .300000042
+        value: {x: -.779337943, y: 0, z: 0, w: .626603842}
+        inSlope: {x: 1.04974961, y: 0, z: 0, w: 1.30562317}
+        outSlope: {x: 1.04974961, y: 0, z: 0, w: 1.30562317}
+        tangentMode: 0
+      - time: .316666722
+        value: {x: -.761538208, y: 0, z: 0, w: .648119986}
+        inSlope: {x: 1.08579493, y: 0, z: 0, w: 1.27580595}
+        outSlope: {x: 1.08579493, y: 0, z: 0, w: 1.27580595}
+        tangentMode: 1015580809
+      - time: .333333403
+        value: {x: -.743144751, y: 0, z: 0, w: .669130743}
+        inSlope: {x: 1.12099254, y: 0, z: 0, w: 1.24498916}
+        outSlope: {x: 1.12099254, y: 0, z: 0, w: 1.24498916}
+        tangentMode: 1023969417
+      - time: .350000083
+        value: {x: -.724171758, y: 0, z: 0, w: .68961966}
+        inSlope: {x: 1.15531766, y: 0, z: 0, w: 1.21320152}
+        outSlope: {x: 1.15531766, y: 0, z: 0, w: 1.21320152}
+        tangentMode: 1028443342
+      - time: .366666764
+        value: {x: -.70463413, y: 0, z: 0, w: .709570825}
+        inSlope: {x: 1.18874156, y: 0, z: 0, w: 1.18047142}
+        outSlope: {x: 1.18874156, y: 0, z: 0, w: 1.18047142}
+        tangentMode: 1032358025
+      - time: .383333445
+        value: {x: -.684547007, y: 0, z: 0, w: .72896874}
+        inSlope: {x: 1.221241, y: 0, z: 0, w: 1.14682043}
+        outSlope: {x: 1.221241, y: 0, z: 0, w: 1.14682043}
+        tangentMode: 1034594987
+      - time: .400000125
+        value: {x: -.663926065, y: 0, z: 0, w: .747798204}
+        inSlope: {x: 1.25278723, y: 0, z: 0, w: 1.11227536}
+        outSlope: {x: 1.25278723, y: 0, z: 0, w: 1.11227536}
+        tangentMode: 1036831949
+      - time: .416666806
+        value: {x: -.642787397, y: 0, z: 0, w: .766044617}
+        inSlope: {x: 1.28335369, y: 0, z: 0, w: 1.07686138}
+        outSlope: {x: 1.28335369, y: 0, z: 0, w: 1.07686138}
+        tangentMode: 1039068911
+      - time: .433333486
+        value: {x: -.621147573, y: 0, z: 0, w: .783693612}
+        inSlope: {x: 1.31292057, y: 0, z: 0, w: 1.04060686}
+        outSlope: {x: 1.31292057, y: 0, z: 0, w: 1.04060686}
+        tangentMode: 1040746633
+      - time: .450000167
+        value: {x: -.599023342, y: 0, z: 0, w: .80073154}
+        inSlope: {x: 1.34146464, y: 0, z: 0, w: 1.00354409}
+        outSlope: {x: 1.34146464, y: 0, z: 0, w: 1.00354409}
+        tangentMode: 1041865114
+      - time: .466666847
+        value: {x: -.576432049, y: 0, z: 0, w: .817145109}
+        inSlope: {x: 1.36896086, y: 0, z: 0, w: .965696335}
+        outSlope: {x: 1.36896086, y: 0, z: 0, w: .965696335}
+        tangentMode: 1042983595
+      - time: .483333528
+        value: {x: -.553391278, y: 0, z: 0, w: .832921445}
+        inSlope: {x: 1.39539075, y: 0, z: 0, w: .927094877}
+        outSlope: {x: 1.39539075, y: 0, z: 0, w: .927094877}
+        tangentMode: 1044102076
+      - time: .500000179
+        value: {x: -.529919028, y: 0, z: 0, w: .84804827}
+        inSlope: {x: 1.42073345, y: 0, z: 0, w: .887772679}
+        outSlope: {x: 1.42073345, y: 0, z: 0, w: .887772679}
+        tangentMode: 1045220557
+      - time: .51666683
+        value: {x: -.50603354, y: 0, z: 0, w: .86251384}
+        inSlope: {x: 1.44496906, y: 0, z: 0, w: .847757697}
+        outSlope: {x: 1.44496906, y: 0, z: 0, w: .847757697}
+        tangentMode: 1046339038
+      - time: .53333348
+        value: {x: -.481753439, y: 0, z: 0, w: .876306832}
+        inSlope: {x: 1.46807551, y: 0, z: 0, w: .807079256}
+        outSlope: {x: 1.46807551, y: 0, z: 0, w: .807079256}
+        tangentMode: 1047457519
+      - time: .550000131
+        value: {x: -.457097739, y: 0, z: 0, w: .889416456}
+        inSlope: {x: 1.49003744, y: 0, z: 0, w: .765773177}
+        outSlope: {x: 1.49003744, y: 0, z: 0, w: .765773177}
+        tangentMode: 1048576000
+      - time: .566666782
+        value: {x: -.432085574, y: 0, z: 0, w: .901832581}
+        inSlope: {x: 1.51083875, y: 0, z: 0, w: .723873496}
+        outSlope: {x: 1.51083875, y: 0, z: 0, w: .723873496}
+        tangentMode: 1049135241
+      - time: .583333433
+        value: {x: -.406736493, y: 0, z: 0, w: .913545549}
+        inSlope: {x: 1.53046179, y: 0, z: 0, w: .681405127}
+        outSlope: {x: 1.53046179, y: 0, z: 0, w: .681405127}
+        tangentMode: 1049694482
+      - time: .600000083
+        value: {x: -.381070226, y: 0, z: 0, w: .924546063}
+        inSlope: {x: 1.54889035, y: 0, z: 0, w: .638405681}
+        outSlope: {x: 1.54889035, y: 0, z: 0, w: .638405681}
+        tangentMode: 1050253723
+      - time: .616666734
+        value: {x: -.35510686, y: 0, z: 0, w: .934825718}
+        inSlope: {x: 1.56611109, y: 0, z: 0, w: .594910979}
+        outSlope: {x: 1.56611109, y: 0, z: 0, w: .594910979}
+        tangentMode: 1050812964
+      - time: .633333385
+        value: {x: -.328866571, y: 0, z: 0, w: .944376409}
+        inSlope: {x: 1.58211327, y: 0, z: 0, w: .550949454}
+        outSlope: {x: 1.58211327, y: 0, z: 0, w: .550949454}
+        tangentMode: 1051372205
+      - time: .650000036
+        value: {x: -.302369803, y: 0, z: 0, w: .953190684}
+        inSlope: {x: 1.59687877, y: 0, z: 0, w: .506558895}
+        outSlope: {x: 1.59687877, y: 0, z: 0, w: .506558895}
+        tangentMode: 1051931446
+      - time: .666666687
+        value: {x: -.275637329, y: 0, z: 0, w: .96126169}
+        inSlope: {x: 1.61039937, y: 0, z: 0, w: .461774886}
+        outSlope: {x: 1.61039937, y: 0, z: 0, w: .461774886}
+        tangentMode: 1052490687
+      - time: .683333337
+        value: {x: -.248689875, y: 0, z: 0, w: .968583167}
+        inSlope: {x: 1.622666, y: 0, z: 0, w: .416629732}
+        outSlope: {x: 1.622666, y: 0, z: 0, w: .416629732}
+        tangentMode: 1053049928
+      - time: .699999988
+        value: {x: -.221548513, y: 0, z: 0, w: .975149333}
+        inSlope: {x: 1.6336658, y: 0, z: 0, w: .371159077}
+        outSlope: {x: 1.6336658, y: 0, z: 0, w: .371159077}
+        tangentMode: 1053609169
+      - time: .716666639
+        value: {x: -.194234401, y: 0, z: 0, w: .980955124}
+        inSlope: {x: 1.64339232, y: 0, z: 0, w: .325400531}
+        outSlope: {x: 1.64339232, y: 0, z: 0, w: .325400531}
+        tangentMode: 1054168410
+      - time: .73333329
+        value: {x: -.166768819, y: 0, z: 0, w: .985996008}
+        inSlope: {x: 1.65183735, y: 0, z: 0, w: .2793881}
+        outSlope: {x: 1.65183735, y: 0, z: 0, w: .2793881}
+        tangentMode: 1054727651
+      - time: .74999994
+        value: {x: -.13917321, y: 0, z: 0, w: .990268052}
+        inSlope: {x: 1.65899432, y: 0, z: 0, w: .233157486}
+        outSlope: {x: 1.65899432, y: 0, z: 0, w: .233157486}
+        tangentMode: 1055286892
+      - time: .766666591
+        value: {x: -.11146906, y: 0, z: 0, w: .993767917}
+        inSlope: {x: 1.66485786, y: 0, z: 0, w: .186744511}
+        outSlope: {x: 1.66485786, y: 0, z: 0, w: .186744511}
+        tangentMode: 1055846133
+      - time: .783333242
+        value: {x: -.0836779997, y: 0, z: 0, w: .996492863}
+        inSlope: {x: 1.66942286, y: 0, z: 0, w: .140184894}
+        outSlope: {x: 1.66942286, y: 0, z: 0, w: .140184894}
+        tangentMode: 1056405374
+      - time: .799999893
+        value: {x: -.0558216833, y: 0, z: 0, w: .998440742}
+        inSlope: {x: 1.67268622, y: 0, z: 0, w: .0935179889}
+        outSlope: {x: 1.67268622, y: 0, z: 0, w: .0935179889}
+        tangentMode: 1056964611
+      - time: .816666543
+        value: {x: -.0279218443, y: 0, z: 0, w: .999610126}
+        inSlope: {x: 1.67464614, y: 0, z: 0, w: .046777688}
+        outSlope: {x: 1.67464614, y: 0, z: 0, w: .046777688}
+        tangentMode: 1057244231
+      - time: .833333313
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 1.67530024, y: 0, z: 0, w: .0233922936}
+        outSlope: {x: 1.67530024, y: 0, z: 0, w: .0233922936}
+        tangentMode: 1057523851
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Rotors Cover
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1.54999995
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: -.724312723
+        inSlope: 2.08289456
+        outSlope: 2.08289456
+        tangentMode: 0
+      - time: 1.01666665
+        value: -.689597845
+        inSlope: 2.13277841
+        outSlope: 2.13277841
+        tangentMode: 0
+      - time: 1.0333333
+        value: -.653220177
+        inSlope: 2.22989225
+        outSlope: 2.22989225
+        tangentMode: 0
+      - time: 1.04999995
+        value: -.615268171
+        inSlope: 2.32162571
+        outSlope: 2.32162571
+        tangentMode: 0
+      - time: 1.0666666
+        value: -.575832725
+        inSlope: 2.40777111
+        outSlope: 2.40777111
+        tangentMode: 0
+      - time: 1.08333325
+        value: -.535009205
+        inSlope: 2.48811436
+        outSlope: 2.48811436
+        tangentMode: 0
+      - time: 1.0999999
+        value: -.492895663
+        inSlope: 2.56244802
+        outSlope: 2.56244802
+        tangentMode: 0
+      - time: 1.11666656
+        value: -.449594349
+        inSlope: 2.63060665
+        outSlope: 2.63060665
+        tangentMode: 0
+      - time: 1.13333321
+        value: -.405208856
+        inSlope: 2.69243264
+        outSlope: 2.69243264
+        tangentMode: 0
+      - time: 1.14999986
+        value: -.359846681
+        inSlope: 2.74775863
+        outSlope: 2.74775863
+        tangentMode: 0
+      - time: 1.16666651
+        value: -.313616991
+        inSlope: 2.79646492
+        outSlope: 2.79646492
+        tangentMode: 0
+      - time: 1.18333316
+        value: -.266631275
+        inSlope: 2.83842492
+        outSlope: 2.83842492
+        tangentMode: 0
+      - time: 1.19999981
+        value: -.219002917
+        inSlope: 2.87354994
+        outSlope: 2.87354994
+        tangentMode: 0
+      - time: 1.21666646
+        value: -.170846373
+        inSlope: 2.90174794
+        outSlope: 2.90174794
+        tangentMode: 0
+      - time: 1.23333311
+        value: -.122278079
+        inSlope: 2.92294359
+        outSlope: 2.92294359
+        tangentMode: 0
+      - time: 1.24999976
+        value: -.0734150186
+        inSlope: 2.93709588
+        outSlope: 2.93709588
+        tangentMode: 0
+      - time: 1.26666641
+        value: -.0243749749
+        inSlope: 2.94416475
+        outSlope: 2.94416475
+        tangentMode: 0
+      - time: 1.28333306
+        value: .0247237086
+        inSlope: 2.94414306
+        outSlope: 2.94414306
+        tangentMode: 0
+      - time: 1.29999971
+        value: .0737630278
+        inSlope: 2.93702412
+        outSlope: 2.93702412
+        tangentMode: 0
+      - time: 1.31666636
+        value: .122624412
+        inSlope: 2.92281771
+        outSlope: 2.92281771
+        tangentMode: 0
+      - time: 1.33333302
+        value: .171190187
+        inSlope: 2.90156507
+        outSlope: 2.90156507
+        tangentMode: 0
+      - time: 1.34999967
+        value: .219343156
+        inSlope: 2.87332153
+        outSlope: 2.87332153
+        tangentMode: 0
+      - time: 1.36666632
+        value: .266967475
+        inSlope: 2.83815479
+        outSlope: 2.83815479
+        tangentMode: 0
+      - time: 1.38333333
+        value: .313949227
+        inSlope: 2.81884742
+        outSlope: 2.81884742
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Rotor Cover Clamp R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: .689471602
+        inSlope: 2.08325934
+        outSlope: 2.08325934
+        tangentMode: 0
+      - time: 1.01666665
+        value: .72419256
+        inSlope: 2.0308938
+        outSlope: 2.0308938
+        tangentMode: 0
+      - time: 1.0333333
+        value: .757167995
+        inSlope: 1.92376089
+        outSlope: 1.92376089
+        tangentMode: 0
+      - time: 1.04999995
+        value: .788317859
+        inSlope: 1.81198764
+        outSlope: 1.81198764
+        tangentMode: 0
+      - time: 1.0666666
+        value: .817567527
+        inSlope: 1.69585323
+        outSlope: 1.69585323
+        tangentMode: 0
+      - time: 1.08333325
+        value: .844846249
+        inSlope: 1.57562757
+        outSlope: 1.57562757
+        tangentMode: 0
+      - time: 1.0999999
+        value: .870088398
+        inSlope: 1.45159864
+        outSlope: 1.45159864
+        tangentMode: 0
+      - time: 1.11666656
+        value: .893232822
+        inSlope: 1.32407379
+        outSlope: 1.32407379
+        tangentMode: 0
+      - time: 1.13333321
+        value: .914224148
+        inSlope: 1.19336057
+        outSlope: 1.19336057
+        tangentMode: 0
+      - time: 1.14999986
+        value: .933011472
+        inSlope: 1.05976319
+        outSlope: 1.05976319
+        tangentMode: 0
+      - time: 1.16666651
+        value: .949549556
+        inSlope: .923614204
+        outSlope: .923614204
+        tangentMode: 0
+      - time: 1.18333316
+        value: .963798583
+        inSlope: .78524065
+        outSlope: .78524065
+        tangentMode: 0
+      - time: 1.19999981
+        value: .97572422
+        inSlope: .644973516
+        outSlope: .644973516
+        tangentMode: 0
+      - time: 1.21666646
+        value: .98529768
+        inSlope: .503150702
+        outSlope: .503150702
+        tangentMode: 0
+      - time: 1.23333311
+        value: .992495894
+        inSlope: .36011374
+        outSlope: .36011374
+        tangentMode: 0
+      - time: 1.24999976
+        value: .997301459
+        inSlope: .216209501
+        outSlope: .216209501
+        tangentMode: 0
+      - time: 1.26666641
+        value: .999702871
+        inSlope: .0717867091
+        outSlope: .0717867091
+        tangentMode: 0
+      - time: 1.28333306
+        value: .999694347
+        inSlope: -.0728131011
+        outSlope: -.0728131011
+        tangentMode: 0
+      - time: 1.29999971
+        value: .99727577
+        inSlope: -.217235893
+        outSlope: -.217235893
+        tangentMode: 0
+      - time: 1.31666636
+        value: .992453158
+        inSlope: -.361132979
+        outSlope: -.361132979
+        tangentMode: 0
+      - time: 1.33333302
+        value: .985238016
+        inSlope: -.504162788
+        outSlope: -.504162788
+        tangentMode: 0
+      - time: 1.34999967
+        value: .975647748
+        inSlope: -.645974874
+        outSlope: -.645974874
+        tangentMode: 0
+      - time: 1.36666632
+        value: .96370554
+        inSlope: -.786231041
+        outSlope: -.786231041
+        tangentMode: 0
+      - time: 1.38333333
+        value: .949439764
+        inSlope: -.855929017
+        outSlope: -.855929017
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Rotor Cover Clamp R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.01666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.04999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.08333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0999999
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.11666656
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.13333321
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.14999986
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.16666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.18333316
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.19999981
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.21666646
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.23333311
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.24999976
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.26666641
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.28333306
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.29999971
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.31666636
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.33333302
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.34999967
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.36666632
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.38333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Rotor Cover Clamp R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.01666665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.04999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.08333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0999999
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.11666656
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.13333321
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.14999986
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.16666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.18333316
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.19999981
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.21666646
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.23333311
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.24999976
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.26666641
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.28333306
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.29999971
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.31666636
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.33333302
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.34999967
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.36666632
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.38333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Rotor Cover Clamp R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.18333328
+        value: .701723516
+        inSlope: -2.27366424
+        outSlope: -2.27366424
+        tangentMode: 0
+      - time: 1.19999993
+        value: .663829148
+        inSlope: -2.32726574
+        outSlope: -2.32726574
+        tangentMode: 0
+      - time: 1.21666658
+        value: .624148071
+        inSlope: -2.4312675
+        outSlope: -2.4312675
+        tangentMode: 0
+      - time: 1.23333323
+        value: .582786977
+        inSlope: -2.52872658
+        outSlope: -2.52872658
+        tangentMode: 0
+      - time: 1.24999988
+        value: .539857268
+        inSlope: -2.61937809
+        outSlope: -2.61937809
+        tangentMode: 0
+      - time: 1.26666653
+        value: .495474458
+        inSlope: -2.70298004
+        outSlope: -2.70298004
+        tangentMode: 0
+      - time: 1.28333318
+        value: .449758023
+        inSlope: -2.77930593
+        outSlope: -2.77930593
+        tangentMode: 0
+      - time: 1.29999983
+        value: .402831018
+        inSlope: -2.84814739
+        outSlope: -2.84814739
+        tangentMode: 0
+      - time: 1.31666648
+        value: .354819864
+        inSlope: -2.90932965
+        outSlope: -2.90932965
+        tangentMode: 0
+      - time: 1.33333313
+        value: .305853456
+        inSlope: -2.96268058
+        outSlope: -2.96268058
+        tangentMode: 0
+      - time: 1.34999979
+        value: .256063938
+        inSlope: -3.0080514
+        outSlope: -3.0080514
+        tangentMode: 0
+      - time: 1.36666644
+        value: .205585167
+        inSlope: -3.04532981
+        outSlope: -3.04532981
+        tangentMode: 0
+      - time: 1.38333309
+        value: .154553041
+        inSlope: -3.07440996
+        outSlope: -3.07440996
+        tangentMode: 0
+      - time: 1.39999974
+        value: .103104927
+        inSlope: -3.09521532
+        outSlope: -3.09521532
+        tangentMode: 0
+      - time: 1.41666639
+        value: .0513792969
+        inSlope: -3.10768604
+        outSlope: -3.10768604
+        tangentMode: 0
+      - time: 1.43333304
+        value: -.000484510238
+        inSlope: -3.11179924
+        outSlope: -3.11179924
+        tangentMode: 0
+      - time: 1.44999969
+        value: -.0523472503
+        inSlope: -3.10753322
+        outSlope: -3.10753322
+        tangentMode: 0
+      - time: 1.46666634
+        value: -.104068853
+        inSlope: -3.09490299
+        outSlope: -3.09490299
+        tangentMode: 0
+      - time: 1.48333299
+        value: -.155510589
+        inSlope: -3.073946
+        outSlope: -3.073946
+        tangentMode: 0
+      - time: 1.49999964
+        value: -.206533626
+        inSlope: -3.04470754
+        outSlope: -3.04470754
+        tangentMode: 0
+      - time: 1.51666629
+        value: -.257000744
+        inSlope: -3.00727797
+        outSlope: -3.00727797
+        tangentMode: 0
+      - time: 1.53333294
+        value: -.306776136
+        inSlope: -2.96175241
+        outSlope: -2.96175241
+        tangentMode: 0
+      - time: 1.54999995
+        value: -.355726779
+        inSlope: -2.93697834
+        outSlope: -2.93697834
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Rotor Cover Clamp L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.18333328
+        value: .712449372
+        inSlope: 2.12609625
+        outSlope: 2.12609625
+        tangentMode: 0
+      - time: 1.19999993
+        value: .747884274
+        inSlope: 2.06570339
+        outSlope: 2.06570339
+        tangentMode: 0
+      - time: 1.21666658
+        value: .781306088
+        inSlope: 1.94222331
+        outSlope: 1.94222331
+        tangentMode: 0
+      - time: 1.23333323
+        value: .812624991
+        inSlope: 1.81351662
+        outSlope: 1.81351662
+        tangentMode: 0
+      - time: 1.24999988
+        value: .841756582
+        inSlope: 1.67992806
+        outSlope: 1.67992806
+        tangentMode: 0
+      - time: 1.26666653
+        value: .868622541
+        inSlope: 1.54181743
+        outSlope: 1.54181743
+        tangentMode: 0
+      - time: 1.28333318
+        value: .893150449
+        inSlope: 1.39955664
+        outSlope: 1.39955664
+        tangentMode: 0
+      - time: 1.29999983
+        value: .915274382
+        inSlope: 1.253528
+        outSlope: 1.253528
+        tangentMode: 0
+      - time: 1.31666648
+        value: .934934676
+        inSlope: 1.10412693
+        outSlope: 1.10412693
+        tangentMode: 0
+      - time: 1.33333313
+        value: .952078581
+        inSlope: .951755941
+        outSlope: .951755941
+        tangentMode: 0
+      - time: 1.34999979
+        value: .966659844
+        inSlope: .7968207
+        outSlope: .7968207
+        tangentMode: 0
+      - time: 1.36666644
+        value: .978639245
+        inSlope: .639739633
+        outSlope: .639739633
+        tangentMode: 0
+      - time: 1.38333309
+        value: .987984478
+        inSlope: .480938435
+        outSlope: .480938435
+        tangentMode: 0
+      - time: 1.39999974
+        value: .99467051
+        inSlope: .320842564
+        outSlope: .320842564
+        tangentMode: 0
+      - time: 1.41666639
+        value: .998679221
+        inSlope: .159881264
+        outSlope: .159881264
+        tangentMode: 0
+      - time: 1.43333304
+        value: .999999881
+        inSlope: -.00150919333
+        outSlope: -.00150919333
+        tangentMode: 0
+      - time: 1.44999969
+        value: .998628914
+        inSlope: -.162894294
+        outSlope: -.162894294
+        tangentMode: 0
+      - time: 1.46666634
+        value: .994570076
+        inSlope: -.323841274
+        outSlope: -.323841274
+        tangentMode: 0
+      - time: 1.48333299
+        value: .987834215
+        inSlope: -.483917475
+        outSlope: -.483917475
+        tangentMode: 0
+      - time: 1.49999964
+        value: .97843951
+        inSlope: -.642690063
+        outSlope: -.642690063
+        tangentMode: 0
+      - time: 1.51666629
+        value: .966411233
+        inSlope: -.799735367
+        outSlope: -.799735367
+        tangentMode: 0
+      - time: 1.53333294
+        value: .95178169
+        inSlope: -.954627395
+        outSlope: -.954627395
+        tangentMode: 0
+      - time: 1.54999995
+        value: .934589982
+        inSlope: -1.03148139
+        outSlope: -1.03148139
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Rotor Cover Clamp L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.18333328
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.19999993
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.21666658
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.23333323
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.24999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.26666653
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.28333318
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.29999983
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.31666648
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.33333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.34999979
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.36666644
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.38333309
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.39999974
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666639
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.43333304
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.44999969
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.46666634
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.48333299
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.49999964
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.51666629
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.53333294
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.54999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Rotor Cover Clamp L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.18333328
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.19999993
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.21666658
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.23333323
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.24999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.26666653
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.28333318
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.29999983
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.31666648
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.33333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.34999979
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.36666644
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.38333309
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.39999974
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666639
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.43333304
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.44999969
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.46666634
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.48333299
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.49999964
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.51666629
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.53333294
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.54999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Rotor Cover Clamp L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.98480773
+        inSlope: .313950747
+        outSlope: .313950747
+        tangentMode: 0
+      - time: .0166666675
+        value: -.979575217
+        inSlope: .336863965
+        outSlope: .336863965
+        tangentMode: 0
+      - time: .0333333351
+        value: -.97357893
+        inSlope: .38255626
+        outSlope: .38255626
+        tangentMode: 0
+      - time: .0500000045
+        value: -.966823339
+        inSlope: .427948236
+        outSlope: .427948236
+        tangentMode: 0
+      - time: .0666666701
+        value: -.959313989
+        inSlope: .473004013
+        outSlope: .473004013
+        tangentMode: 0
+      - time: .0833333358
+        value: -.95105654
+        inSlope: .51769501
+        outSlope: .51769501
+        tangentMode: 0
+      - time: .100000001
+        value: -.94205749
+        inSlope: .561981857
+        outSlope: .561981857
+        tangentMode: 0
+      - time: .116666667
+        value: -.932323813
+        inSlope: .605830431
+        outSlope: .605830431
+        tangentMode: 0
+      - time: .13333334
+        value: -.921863139
+        inSlope: .649205327
+        outSlope: .649205327
+        tangentMode: 0
+      - time: .150000006
+        value: -.910683632
+        inSlope: .69207257
+        outSlope: .69207257
+        tangentMode: 0
+      - time: .166666672
+        value: -.898794055
+        inSlope: .734401405
+        outSlope: .734401405
+        tangentMode: 0
+      - time: .183333337
+        value: -.886203587
+        inSlope: .776159823
+        outSlope: .776159823
+        tangentMode: 0
+      - time: .200000003
+        value: -.872922063
+        inSlope: .817310274
+        outSlope: .817310274
+        tangentMode: 0
+      - time: .216666669
+        value: -.858959913
+        inSlope: .857825935
+        outSlope: .857825935
+        tangentMode: 0
+      - time: .233333334
+        value: -.844327867
+        inSlope: .897671044
+        outSlope: .897671044
+        tangentMode: 0
+      - time: .25
+        value: -.829037547
+        inSlope: .936812997
+        outSlope: .936812997
+        tangentMode: 0
+      - time: .266666681
+        value: -.813100755
+        inSlope: .975228906
+        outSlope: .975228906
+        tangentMode: 0
+      - time: .283333361
+        value: -.796529889
+        inSlope: 1.01288354
+        outSlope: 1.01288354
+        tangentMode: 0
+      - time: .300000042
+        value: -.779337943
+        inSlope: 1.04974961
+        outSlope: 1.04974961
+        tangentMode: 0
+      - time: .316666722
+        value: -.761538208
+        inSlope: 1.08579493
+        outSlope: 1.08579493
+        tangentMode: 0
+      - time: .333333403
+        value: -.743144751
+        inSlope: 1.12099254
+        outSlope: 1.12099254
+        tangentMode: 0
+      - time: .350000083
+        value: -.724171758
+        inSlope: 1.15531766
+        outSlope: 1.15531766
+        tangentMode: 0
+      - time: .366666764
+        value: -.70463413
+        inSlope: 1.18874156
+        outSlope: 1.18874156
+        tangentMode: 0
+      - time: .383333445
+        value: -.684547007
+        inSlope: 1.221241
+        outSlope: 1.221241
+        tangentMode: 0
+      - time: .400000125
+        value: -.663926065
+        inSlope: 1.25278723
+        outSlope: 1.25278723
+        tangentMode: 0
+      - time: .416666806
+        value: -.642787397
+        inSlope: 1.28335369
+        outSlope: 1.28335369
+        tangentMode: 0
+      - time: .433333486
+        value: -.621147573
+        inSlope: 1.31292057
+        outSlope: 1.31292057
+        tangentMode: 0
+      - time: .450000167
+        value: -.599023342
+        inSlope: 1.34146464
+        outSlope: 1.34146464
+        tangentMode: 0
+      - time: .466666847
+        value: -.576432049
+        inSlope: 1.36896086
+        outSlope: 1.36896086
+        tangentMode: 0
+      - time: .483333528
+        value: -.553391278
+        inSlope: 1.39539075
+        outSlope: 1.39539075
+        tangentMode: 0
+      - time: .500000179
+        value: -.529919028
+        inSlope: 1.42073345
+        outSlope: 1.42073345
+        tangentMode: 0
+      - time: .51666683
+        value: -.50603354
+        inSlope: 1.44496906
+        outSlope: 1.44496906
+        tangentMode: 0
+      - time: .53333348
+        value: -.481753439
+        inSlope: 1.46807551
+        outSlope: 1.46807551
+        tangentMode: 0
+      - time: .550000131
+        value: -.457097739
+        inSlope: 1.49003744
+        outSlope: 1.49003744
+        tangentMode: 0
+      - time: .566666782
+        value: -.432085574
+        inSlope: 1.51083875
+        outSlope: 1.51083875
+        tangentMode: 0
+      - time: .583333433
+        value: -.406736493
+        inSlope: 1.53046179
+        outSlope: 1.53046179
+        tangentMode: 0
+      - time: .600000083
+        value: -.381070226
+        inSlope: 1.54889035
+        outSlope: 1.54889035
+        tangentMode: 0
+      - time: .616666734
+        value: -.35510686
+        inSlope: 1.56611109
+        outSlope: 1.56611109
+        tangentMode: 0
+      - time: .633333385
+        value: -.328866571
+        inSlope: 1.58211327
+        outSlope: 1.58211327
+        tangentMode: 0
+      - time: .650000036
+        value: -.302369803
+        inSlope: 1.59687877
+        outSlope: 1.59687877
+        tangentMode: 0
+      - time: .666666687
+        value: -.275637329
+        inSlope: 1.61039937
+        outSlope: 1.61039937
+        tangentMode: 0
+      - time: .683333337
+        value: -.248689875
+        inSlope: 1.622666
+        outSlope: 1.622666
+        tangentMode: 0
+      - time: .699999988
+        value: -.221548513
+        inSlope: 1.6336658
+        outSlope: 1.6336658
+        tangentMode: 0
+      - time: .716666639
+        value: -.194234401
+        inSlope: 1.64339232
+        outSlope: 1.64339232
+        tangentMode: 0
+      - time: .73333329
+        value: -.166768819
+        inSlope: 1.65183735
+        outSlope: 1.65183735
+        tangentMode: 0
+      - time: .74999994
+        value: -.13917321
+        inSlope: 1.65899432
+        outSlope: 1.65899432
+        tangentMode: 0
+      - time: .766666591
+        value: -.11146906
+        inSlope: 1.66485786
+        outSlope: 1.66485786
+        tangentMode: 0
+      - time: .783333242
+        value: -.0836779997
+        inSlope: 1.66942286
+        outSlope: 1.66942286
+        tangentMode: 0
+      - time: .799999893
+        value: -.0558216833
+        inSlope: 1.67268622
+        outSlope: 1.67268622
+        tangentMode: 0
+      - time: .816666543
+        value: -.0279218443
+        inSlope: 1.67464614
+        outSlope: 1.67464614
+        tangentMode: 0
+      - time: .833333313
+        value: 0
+        inSlope: 1.67530024
+        outSlope: 1.67530024
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Rotors Cover
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0166666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0500000045
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .116666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .150000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .183333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .216666669
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .283333361
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .300000042
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .316666722
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333403
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .350000083
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .366666764
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .383333445
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000125
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666806
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .433333486
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .450000167
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .466666847
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .483333528
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .500000179
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .51666683
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .53333348
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .550000131
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .566666782
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333433
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000083
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .616666734
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .633333385
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .650000036
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .683333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .716666639
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .73333329
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .74999994
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .766666591
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .783333242
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .799999893
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .816666543
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Rotors Cover
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0166666675
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0500000045
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0833333358
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .116666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .150000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .183333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .216666669
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .283333361
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .300000042
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .316666722
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .333333403
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .350000083
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .366666764
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .383333445
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000125
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .416666806
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .433333486
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .450000167
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .466666847
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .483333528
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .500000179
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .51666683
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .53333348
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .550000131
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .566666782
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .583333433
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000083
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .616666734
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .633333385
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .650000036
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .683333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .699999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .716666639
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .73333329
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .74999994
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .766666591
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .783333242
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .799999893
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .816666543
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Rotors Cover
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .173648223
+        inSlope: 1.64578366
+        outSlope: 1.64578366
+        tangentMode: 0
+      - time: .0166666675
+        value: .201077953
+        inSlope: 1.64107955
+        outSlope: 1.64107955
+        tangentMode: 0
+      - time: .0333333351
+        value: .228350878
+        inSlope: 1.63103724
+        outSlope: 1.63103724
+        tangentMode: 0
+      - time: .0500000045
+        value: .255445868
+        inSlope: 1.61971712
+        outSlope: 1.61971712
+        tangentMode: 0
+      - time: .0666666701
+        value: .28234145
+        inSlope: 1.60713327
+        outSlope: 1.60713327
+        tangentMode: 0
+      - time: .0833333358
+        value: .309016973
+        inSlope: 1.59330201
+        outSlope: 1.59330201
+        tangentMode: 0
+      - time: .100000001
+        value: .335451514
+        inSlope: 1.57822621
+        outSlope: 1.57822621
+        tangentMode: 0
+      - time: .116666667
+        value: .361624509
+        inSlope: 1.56192338
+        outSlope: 1.56192338
+        tangentMode: 0
+      - time: .13333334
+        value: .387515634
+        inSlope: 1.54439783
+        outSlope: 1.54439783
+        tangentMode: 0
+      - time: .150000006
+        value: .413104445
+        inSlope: 1.52566564
+        outSlope: 1.52566564
+        tangentMode: 0
+      - time: .166666672
+        value: .438371152
+        inSlope: 1.50574756
+        outSlope: 1.50574756
+        tangentMode: 0
+      - time: .183333337
+        value: .463296026
+        inSlope: 1.48465466
+        outSlope: 1.48465466
+        tangentMode: 0
+      - time: .200000003
+        value: .487859637
+        inSlope: 1.46240401
+        outSlope: 1.46240401
+        tangentMode: 0
+      - time: .216666669
+        value: .51204282
+        inSlope: 1.43901682
+        outSlope: 1.43901682
+        tangentMode: 0
+      - time: .233333334
+        value: .535826862
+        inSlope: 1.41450238
+        outSlope: 1.41450238
+        tangentMode: 0
+      - time: .25
+        value: .559192896
+        inSlope: 1.38888311
+        outSlope: 1.38888311
+        tangentMode: 0
+      - time: .266666681
+        value: .582122982
+        inSlope: 1.36218739
+        outSlope: 1.36218739
+        tangentMode: 0
+      - time: .283333361
+        value: .604599178
+        inSlope: 1.33442473
+        outSlope: 1.33442473
+        tangentMode: 0
+      - time: .300000042
+        value: .626603842
+        inSlope: 1.30562317
+        outSlope: 1.30562317
+        tangentMode: 0
+      - time: .316666722
+        value: .648119986
+        inSlope: 1.27580595
+        outSlope: 1.27580595
+        tangentMode: 0
+      - time: .333333403
+        value: .669130743
+        inSlope: 1.24498916
+        outSlope: 1.24498916
+        tangentMode: 0
+      - time: .350000083
+        value: .68961966
+        inSlope: 1.21320152
+        outSlope: 1.21320152
+        tangentMode: 0
+      - time: .366666764
+        value: .709570825
+        inSlope: 1.18047142
+        outSlope: 1.18047142
+        tangentMode: 0
+      - time: .383333445
+        value: .72896874
+        inSlope: 1.14682043
+        outSlope: 1.14682043
+        tangentMode: 0
+      - time: .400000125
+        value: .747798204
+        inSlope: 1.11227536
+        outSlope: 1.11227536
+        tangentMode: 0
+      - time: .416666806
+        value: .766044617
+        inSlope: 1.07686138
+        outSlope: 1.07686138
+        tangentMode: 0
+      - time: .433333486
+        value: .783693612
+        inSlope: 1.04060686
+        outSlope: 1.04060686
+        tangentMode: 0
+      - time: .450000167
+        value: .80073154
+        inSlope: 1.00354409
+        outSlope: 1.00354409
+        tangentMode: 0
+      - time: .466666847
+        value: .817145109
+        inSlope: .965696335
+        outSlope: .965696335
+        tangentMode: 0
+      - time: .483333528
+        value: .832921445
+        inSlope: .927094877
+        outSlope: .927094877
+        tangentMode: 0
+      - time: .500000179
+        value: .84804827
+        inSlope: .887772679
+        outSlope: .887772679
+        tangentMode: 0
+      - time: .51666683
+        value: .86251384
+        inSlope: .847757697
+        outSlope: .847757697
+        tangentMode: 0
+      - time: .53333348
+        value: .876306832
+        inSlope: .807079256
+        outSlope: .807079256
+        tangentMode: 0
+      - time: .550000131
+        value: .889416456
+        inSlope: .765773177
+        outSlope: .765773177
+        tangentMode: 0
+      - time: .566666782
+        value: .901832581
+        inSlope: .723873496
+        outSlope: .723873496
+        tangentMode: 0
+      - time: .583333433
+        value: .913545549
+        inSlope: .681405127
+        outSlope: .681405127
+        tangentMode: 0
+      - time: .600000083
+        value: .924546063
+        inSlope: .638405681
+        outSlope: .638405681
+        tangentMode: 0
+      - time: .616666734
+        value: .934825718
+        inSlope: .594910979
+        outSlope: .594910979
+        tangentMode: 0
+      - time: .633333385
+        value: .944376409
+        inSlope: .550949454
+        outSlope: .550949454
+        tangentMode: 0
+      - time: .650000036
+        value: .953190684
+        inSlope: .506558895
+        outSlope: .506558895
+        tangentMode: 0
+      - time: .666666687
+        value: .96126169
+        inSlope: .461774886
+        outSlope: .461774886
+        tangentMode: 0
+      - time: .683333337
+        value: .968583167
+        inSlope: .416629732
+        outSlope: .416629732
+        tangentMode: 0
+      - time: .699999988
+        value: .975149333
+        inSlope: .371159077
+        outSlope: .371159077
+        tangentMode: 0
+      - time: .716666639
+        value: .980955124
+        inSlope: .325400531
+        outSlope: .325400531
+        tangentMode: 0
+      - time: .73333329
+        value: .985996008
+        inSlope: .2793881
+        outSlope: .2793881
+        tangentMode: 0
+      - time: .74999994
+        value: .990268052
+        inSlope: .233157486
+        outSlope: .233157486
+        tangentMode: 0
+      - time: .766666591
+        value: .993767917
+        inSlope: .186744511
+        outSlope: .186744511
+        tangentMode: 0
+      - time: .783333242
+        value: .996492863
+        inSlope: .140184894
+        outSlope: .140184894
+        tangentMode: 0
+      - time: .799999893
+        value: .998440742
+        inSlope: .0935179889
+        outSlope: .0935179889
+        tangentMode: 0
+      - time: .816666543
+        value: .999610126
+        inSlope: .046777688
+        outSlope: .046777688
+        tangentMode: 0
+      - time: .833333313
+        value: 1
+        inSlope: .0233922936
+        outSlope: .0233922936
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Rotors Cover
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.18333328
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.54999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Rotor Cover Clamp L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.18333328
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.54999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Rotor Cover Clamp L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.18333328
+        value: 90.8691101
+        inSlope: 356.746033
+        outSlope: 356.746033
+        tangentMode: 10
+      - time: 1.54999995
+        value: 221.675995
+        inSlope: 356.746033
+        outSlope: 356.746033
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Rotor Cover Clamp L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.38333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Rotor Cover Clamp R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.38333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Rotor Cover Clamp R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1
+        value: 272.823425
+        inSlope: -337.612732
+        outSlope: -337.612732
+        tangentMode: 10
+      - time: 1.38333333
+        value: 143.405212
+        inSlope: -337.612732
+        outSlope: -337.612732
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Rotor Cover Clamp R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -160
+        inSlope: 192
+        outSlope: 192
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 192
+        outSlope: 192
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Rotors Cover
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Rotors Cover
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Rotors Cover
+    classID: 4
+    script: {fileID: 0}
+  m_Events: []

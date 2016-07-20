@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 59fa1b0c586de3a4093e47ee8233f2c1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Circle_046
+    100004: globe
+    100006: Mesh1056_sketchup_download200608291508193_1_Group258_Group257_U
+    100008: Mesh1056_sketchup_download200608291508193_1_Group258_Group2_000
+    100010: Mesh1082_Group262_Group261_ntitled_2_1_Group2_Group1_Model
+    100012: Mesh1978_Group385_Jewelry_Box2_Group2_Group1_Model_001
+    100014: Mesh2007_Komponent_9_1_nkwell1_Group2_Group1_Model
+    100016: Mesh717_my_kerosene_lamp_with_globe_1_1_Group2_Group1_Model
+    100018: globe_002
+    400000: //RootNode
+    400002: Circle_046
+    400004: globe
+    400006: Mesh1056_sketchup_download200608291508193_1_Group258_Group257_U
+    400008: Mesh1056_sketchup_download200608291508193_1_Group258_Group2_000
+    400010: Mesh1082_Group262_Group261_ntitled_2_1_Group2_Group1_Model
+    400012: Mesh1978_Group385_Jewelry_Box2_Group2_Group1_Model_001
+    400014: Mesh2007_Komponent_9_1_nkwell1_Group2_Group1_Model
+    400016: Mesh717_my_kerosene_lamp_with_globe_1_1_Group2_Group1_Model
+    400018: globe_002
+    2300000: Circle_046
+    2300002: globe
+    2300004: Mesh1056_sketchup_download200608291508193_1_Group258_Group257_U
+    2300006: Mesh1056_sketchup_download200608291508193_1_Group258_Group2_000
+    2300008: Mesh1082_Group262_Group261_ntitled_2_1_Group2_Group1_Model
+    2300010: Mesh1978_Group385_Jewelry_Box2_Group2_Group1_Model_001
+    2300012: Mesh2007_Komponent_9_1_nkwell1_Group2_Group1_Model
+    2300014: Mesh717_my_kerosene_lamp_with_globe_1_1_Group2_Group1_Model
+    2300016: globe_002
+    3300000: Circle_046
+    3300002: globe
+    3300004: Mesh1056_sketchup_download200608291508193_1_Group258_Group257_U
+    3300006: Mesh1056_sketchup_download200608291508193_1_Group258_Group2_000
+    3300008: Mesh1082_Group262_Group261_ntitled_2_1_Group2_Group1_Model
+    3300010: Mesh1978_Group385_Jewelry_Box2_Group2_Group1_Model_001
+    3300012: Mesh2007_Komponent_9_1_nkwell1_Group2_Group1_Model
+    3300014: Mesh717_my_kerosene_lamp_with_globe_1_1_Group2_Group1_Model
+    3300016: globe_002
+    4300000: Mesh1056_sketchup_download200608291508193_1_Group258_Group2_000
+    4300002: Circle_046
+    4300004: Mesh1978_Group385_Jewelry_Box2_Group2_Group1_Model_001
+    4300006: Mesh2007_Komponent_9_1_nkwell1_Group2_Group1_Model
+    4300008: globe
+    4300010: Mesh1082_Group262_Group261_ntitled_2_1_Group2_Group1_Model
+    4300012: Mesh717_my_kerosene_lamp_with_globe_1_1_Group2_Group1_Model
+    4300014: Mesh1056_sketchup_download200608291508193_1_Group258_Group257_U
+    4300016: globe_002
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
